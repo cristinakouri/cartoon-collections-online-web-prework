@@ -1,5 +1,6 @@
 def roll_call_dwarves(array)
-  puts array.sort
+  array = array.sort
+  array.each_with
 end
 
 
