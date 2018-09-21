@@ -1,9 +1,7 @@
-def roll_call_dwarves# code an argument here
-  # Your code here
-  def roll_call_dwarves(array)
+def roll_call_dwarves(array)
   puts array.sort
 end
-end
+
 
 def summon_captain_planet# code an argument here
   # Your code here
